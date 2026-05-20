@@ -4,5 +4,6 @@ I'm Matt. I am currently a student at university who is aiming for my bachelors 
 
 
 - 📫 How to reach me: mathewwalbeck@gmail.com
+- 🤔 Learning / Planning to learn: GUI designs, executing equations in java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been interested in computers and electronics since a very young age
